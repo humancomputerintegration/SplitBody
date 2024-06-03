@@ -8,16 +8,18 @@ For more information, please refer to our paper: http://lab.plopes.org/#SplitBod
 
 # software
 
-The main python `dual_task_pattern-n-back` is at the core of the study code. It runs a predefined 2-back sequence, controls the muscle stimulation, and logs all data into `.csv` files. The script also communicates with Unity3D via OSC to start/stop logging positional data from the Vive tracker. More information about the study procedure can be found in the paper.
+The main python `dual_task_pattern-n-back` is at the core of the study code. It runs a predefined 2-back sequence, controls the muscle stimulation, and logs all data into `.csv` files. The script also communicates with Unity3D via OSC to start/stop logging positional data from the Vive tracker. 
+
+The Unity3D project is installed by creating a new project and importing the `study_nback.unitypackage`. This project logs the Vive tracker raw data.
+
+More information about the study procedure can be found in the paper.
 
 ## version requirements
 
 Below are the recommended software and library versions
 
 - python = 3.9.15
-
 - pygame = 2.1.3
-
 - python-osc = 1.8.0
 - Unity = 2021.3.4f1
 
