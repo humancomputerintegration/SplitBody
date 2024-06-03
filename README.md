@@ -21,7 +21,7 @@ Below are the recommended software and library versions
 - python = 3.9.15
 - pygame = 2.1.3
 - python-osc = 1.8.0
-- Unity = 2021.3.4f1
+- Unity3D = 2021.3.4f1
 
 # hardware requirements
 - Hasomed RehaStim 1 muscle stimulator
