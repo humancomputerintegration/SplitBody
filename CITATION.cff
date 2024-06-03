@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Nith"
+  given-names: "Romain"
+- family-names: "Ho"
+  given-names: "Yun"
+- family-names: "Lopes"
+  given-names: "Pedro"
+title: "SplitBody"
+version: 1.0.0
+doi: 10.1145/3613904.3642629
+date-released: 2024-06-03
+url: "https://github.com/humancomputerintegration/SplitBody"
